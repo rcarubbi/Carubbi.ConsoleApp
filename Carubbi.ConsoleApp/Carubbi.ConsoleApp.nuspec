@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Raphael Carubbi Neto</authors>
+    <owners>Raphael Carubbi Neto</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Console App Boilerplate to create testable console apps</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2024</copyright>
+    <tags>Testable Console App</tags>
+  </metadata>
+</package>
