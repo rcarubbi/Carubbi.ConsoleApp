@@ -7,7 +7,9 @@ namespace Carubbi.ConsoleApp.Extensions
     {
         public static IServiceCollection AddConsoleApp<T>(this IServiceCollection services) where T : class, IConsoleApp
         {
-            return services.AddSingleton<IConsoleApp, T>();
+            return services.AddSingleton<T>()
+                .AddSingleton<IConsoleApp>(sp => sp.GetRequiredService<T>());
+
         }
     }
 }

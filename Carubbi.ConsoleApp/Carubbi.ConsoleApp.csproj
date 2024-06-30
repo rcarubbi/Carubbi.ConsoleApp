@@ -12,7 +12,7 @@
 		<PackageProjectUrl>https://github.com/rcarubbi/carubbi.consoleapp</PackageProjectUrl>
 		<Title>Carubbi ConsoleApp</Title>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<Version>1.1.0</Version>
+		<Version>1.2.0</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
