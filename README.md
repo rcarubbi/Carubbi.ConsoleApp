@@ -49,7 +49,7 @@ Carubbi.ConsoleApp is a .NET library designed to facilitate the creation of cons
 
 ### Additional Information
 
-For more detailed instructions and updates, visit the [This demo GitHub repository](https://github.com/rcarubbi/ConsoleAppWithResilientFlurlDemo).
+For more detailed instructions and updates, visit the [This demo GitHub repository](https://github.com/rcarubbi/ConsoleAppsDemo).
 
 Contributions and issues can be reported on the repository.
 
